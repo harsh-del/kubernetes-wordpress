@@ -1,0 +1,1 @@
+kubeadm join 172.31.9.164:6443 --token po2wir.dbe2p224fp43yud0 --discovery-token-ca-cert-hash sha256:4047dd29630d541a1dd98e7a3ab80859005a806aac4915a0c91c5c6e1ff7841e 

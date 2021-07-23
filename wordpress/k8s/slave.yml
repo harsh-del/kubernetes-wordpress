@@ -1,0 +1,7 @@
+- hosts: tag_Name_node1
+  roles:
+  - role: "k8s_slave1"
+
+- hosts: tag_Name_node2
+  roles:
+  - role: "k8s_slave2"
